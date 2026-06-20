@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=38&duration=2400&pause=300&color=9370DB&center=true&vCenter=true&repeat=true&width=650&lines=Hi+👋,+I'm+Kanwal+Hayat;welcome to my github!Frontend+Developer;UI+UX+Designer;AI+Prompt+Engineering+Expert!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=38&duration=2400&pause=300&color=9370DB&center=true&vCenter=true&repeat=true&width=650&lines=Hi+👋,+I'm+Kanwal+Hayat;Welcome+to+my+GitHub+profile!;Frontend+Developer;UI+UX+Designer;AI+Prompt+Engineering+Expert!" />
 </div>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-  <img src="https://i.pinimg.com/1200x/78/6b/b5/786bb523dc100e6a2fc49d8cbe07807e.jpg" width="800" height="400" style="border-radius: 12px; box-shadow: 0 0 25px #9370DB;" />
+  <img src="image_70.png" width="800" alt="Kanwal Hayat's Tech Workspace" style="border-radius: 12px; box-shadow: 0 0 25px #9370DB;" />
 </div>
 
 <br />
