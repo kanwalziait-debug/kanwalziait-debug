@@ -1,3 +1,8 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=9370DB&center=true&vCenter=true&width=500&lines=Frontend+Developer;UI+UX+Designer;AI+Prompt+Engineer" />
+</h1>
+
+
 <h1 align="center">Kanwal Hayat</h1>
 
 <h3 align="center">
@@ -21,6 +26,16 @@ I am a passionate developer focused on building interactive web experiences and 
 ### 📊 GitHub Stats
 ![Kanwal's Stats](https://github-readme-stats.vercel.app/api?username=kanwalziait-debug&show_icons=true&theme=radical&hide_border=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanwalziait-debug&layout=compact&theme=radical)
+
+
+### 📊 GitHub Stats
+![Kanwal's Stats](https://github-readme-stats.vercel.app/api?username=kanwalziait-debug&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+### 📈 Most Used Languages
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanwalziait-debug&layout=compact&theme=radical)
+
+### 🖋 Quote of the Day
+![Quote](https://quotes-github-readme.vercel.app/api?quote=Code%20is%20not%20just%20logic%20-%20it's%20art%20in%20motion.&author=Kanwal%20Hayat&theme=radical)
 
 ---
 
