@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Kanwal Hayat</h1>
 
-<!--
-**kanwalziait-debug/kanwalziait-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  <span style="color: #9370DB;">💻 Frontend Developer</span> | 
+  <span style="color: #9370DB;">🎨 UI/UX Enthusiast</span> | 
+  <span style="color: #9370DB;">🤖 AI Prompt Engineering & Tools</span>
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="YOUR_IMAGE_LINK_HERE" alt="Profile Banner" width="700">
+</p>
+
+### 🚀 About Me
+I am a passionate developer focused on building interactive web experiences and exploring the power of Artificial Intelligence. I love merging design with code to create user-friendly interfaces.
+
+### 🛠 Tech Stack
+- **Web:** React, Tailwind CSS, HTML, CSS, JavaScript
+- **AI Tools:** AI Prompt Engineering, LLM Integration, and Automation
+- **Design:** Figma, UI/UX Principles
+
+---
+
+### 📫 Let's Connect
+- **Email:** kanwalziait@gmail.com
+- **GitHub:** [kanwalziait-debug](https://github.com/kanwalziait-debug)
