@@ -6,7 +6,6 @@
   <span style="color: #9370DB;">🤖 AI Prompt Engineering & Tools</span>
 </h3>
 
----
 <p align="center">
   <img src="best-ai.jpg" alt="Profile Banner" width="700">
 </p>
@@ -18,6 +17,10 @@ I am a passionate developer focused on building interactive web experiences and 
 - **Web:** React, Tailwind CSS, HTML, CSS, JavaScript
 - **AI Tools:** AI Prompt Engineering, LLM Integration, and Automation
 - **Design:** Figma, UI/UX Principles
+
+### 📊 GitHub Stats
+![Kanwal's Stats](https://github-readme-stats.vercel.app/api?username=kanwalziait-debug&show_icons=true&theme=radical&hide_border=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanwalziait-debug&layout=compact&theme=radical)
 
 ---
 
