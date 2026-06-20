@@ -22,7 +22,7 @@
 
 ## 🌸 About Me
 - 🌱 Currently mastering **Frontend Engineering & AI Automation**
-- ⚙️ Tech Stack: **HTML | CSS | JavaScript | TypeScript | Next.js | React.js | Tailwind CSS | Figma | Git | GitHub | Python | AI Prompt Engineering**
+- ⚙️ Tech Stack: **HTML | CSS | JavaScript | React.js | Tailwind CSS | Figma | Git | GitHub | Canva| AI Prompt Engineering**
 - 💎 Passion: *Animated UI, Clean Layouts & AI Integration*
 - 💌 Email: **kanwalziait@gmail.com**
 - 😄 Fun Fact: *I don’t find bugs… bugs find me 😆*
