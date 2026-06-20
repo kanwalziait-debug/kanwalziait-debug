@@ -7,9 +7,8 @@
 </h3>
 
 ---
-
 <p align="center">
-  <img src="YOUR_IMAGE_LINK_HERE" alt="Profile Banner" width="700">
+  <img src="best-ai.jpg" alt="Profile Banner" width="700">
 </p>
 
 ### 🚀 About Me
